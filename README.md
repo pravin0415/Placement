@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pravin0415/Placement/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

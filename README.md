@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
+| [0540-single-element-in-a-sorted-array](https://github.com/pravin0415/Placement/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/pravin0415/Placement/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->

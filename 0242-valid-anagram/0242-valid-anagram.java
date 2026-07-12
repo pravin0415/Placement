@@ -1,0 +1,23 @@
+class Solution {
+    public boolean isAnagram(String s, String t) {
+        int n = s.length();
+        int m = t.length();
+
+        //frequency map
+        int[] count = new int[26];
+
+        for(int i=0; i<n; i++){
+            count[s.charAt(i)-'a']++;
+        }
+        for(int i=0; i<m; i++){
+            count[t.charAt(i)-'a']--;
+        }
+
+        for(int alpha : count){
+            if(alpha != 0){
+                return false;
+            }
+        }
+        return true;
+    }
+}

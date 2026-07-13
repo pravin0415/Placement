@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pravin0415/Placement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0643-maximum-average-subarray-i](https://github.com/pravin0415/Placement/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pravin0415/Placement/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Array
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pravin0415/Placement/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravin0415/Placement/tree/master/0540-single-element-in-a-sorted-array) |
+| [0643-maximum-average-subarray-i](https://github.com/pravin0415/Placement/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pravin0415/Placement/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |

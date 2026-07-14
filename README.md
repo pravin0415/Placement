@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/pravin0415/Placement/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/pravin0415/Placement/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/pravin0415/Placement/tree/master/0217-contains-duplicate) |
 | [0540-single-element-in-a-sorted-array](https://github.com/pravin0415/Placement/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/pravin0415/Placement/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/pravin0415/Placement/tree/master/0704-binary-search) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/pravin0415/Placement/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/pravin0415/Placement/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pravin0415/Placement/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/pravin0415/Placement/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pravin0415/Placement/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/pravin0415/Placement/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pravin0415/Placement/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/pravin0415/Placement/tree/master/0387-first-unique-character-in-a-string) |
 ## Math

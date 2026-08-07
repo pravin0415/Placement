@@ -3,7 +3,7 @@ class Solution {
         int maxVowels = 0;
         int windowVowels = 0;
 
-        Set<Character> vowels = new HashSet<>();
+        Set<Character>vowels = new HashSet<>();
         vowels.add('a');
         vowels.add('e');
         vowels.add('i');
@@ -14,9 +14,9 @@ class Solution {
             if(vowels.contains(s.charAt(i))){
                 windowVowels++;
 
-                maxVowels = windowVowels;
             }
         }
+         maxVowels = windowVowels;
 
         for(int i=k; i<s.length(); i++){
             if(vowels.contains(s.charAt(i))){

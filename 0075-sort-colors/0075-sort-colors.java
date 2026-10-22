@@ -5,32 +5,30 @@ class Solution {
         int end = nums.length-1;
 
         while(mid<=end){
-
             switch(nums[mid]){
-
                 case 0:
+                //swap(nums,start,mid)
                 int temp = nums[start];
                 nums[start] = nums[mid];
                 nums[mid] = temp;
-                mid++;
                 start++;
+                mid++;
                 break;
 
                 case 1:
+                //no swapping
                 mid++;
                 break;
 
                 case 2:
+                //swap(nums,mid,end)
                 int temp2 = nums[mid];
                 nums[mid] = nums[end];
                 nums[end] = temp2;
-
                 end--;
                 break;
-
+                 
             }
         }
-
-       
     }
 }
